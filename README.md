@@ -1,0 +1,2 @@
+# test-loilonote
+ロイロwebフィルターのGPTによるフィルタリング回避のテスト
